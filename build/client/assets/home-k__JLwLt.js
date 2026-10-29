@@ -1,0 +1,1 @@
+import{w as t,o as e,x as r}from"./chunk-4WY6JWTD-BQxbebXW.js";import{g as s}from"./auth-k2MjSDqw.js";const i=t(function(){const o=s();return o?o.roles?.includes("ROLE_ADMIN")?e.jsx(r,{to:"/admin",replace:!0}):e.jsx(r,{to:"/usuario",replace:!0}):e.jsx(r,{to:"/login",replace:!0})});export{i as default};
